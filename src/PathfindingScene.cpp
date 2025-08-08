@@ -137,7 +137,7 @@ namespace mapv
 
 	void PathfindingScene::updateGUI()
 	{
-		ImGui::ShowDemoWindow();
+		// ImGui::ShowDemoWindow();
 
 		if (ImGui::Begin("Multi Algorithm Pathfinding Visualiser"))
 		{

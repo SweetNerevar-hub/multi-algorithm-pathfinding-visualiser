@@ -132,7 +132,7 @@ namespace mapv
 		float dx = (dest.x - origin.x) * (dest.x - origin.x);
 		float dy = (dest.y - origin.y) * (dest.y - origin.y);
 
-		return std::sqrtf(dx + dy);
+		return sqrtf(dx + dy);
 	}
 
 	float AStar::octile(glm::vec2 origin, glm::vec2 dest)

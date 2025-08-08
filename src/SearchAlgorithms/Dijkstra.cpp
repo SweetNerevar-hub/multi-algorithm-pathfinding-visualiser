@@ -98,5 +98,5 @@ float mapv::Dijkstra::distance(glm::vec2 origin, glm::vec2 dest)
 	float dx = (dest.x - origin.x) * (dest.x - origin.x);
 	float dy = (dest.y - origin.y) * (dest.y - origin.y);
 
-	return std::sqrtf(dx + dy);
+	return sqrtf(dx + dy);
 }

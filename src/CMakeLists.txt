@@ -22,5 +22,32 @@ add_executable(MAPV EXCLUDE_FROM_ALL
 		externals/include/imgui/imgui_tables.cpp
 		externals/include/imgui/imgui_widgets.cpp
 		
-		icon.o
+		src/Map.h
+		src/Maze.h
+		src/PathfindingScene.h
+		src/Shader.h
+		src/Tile.h
+		src/Tile.h
+		src/Vertex.h
+		src/VertexArray.h
+		src/GUI/GUI.h
+		src/GUI/GUI_AStarSettings.h
+		src/GUI/GUI_ExtraAlgorithmInfo.h
+		src/GUI/GUI_NodeCost.h
+		src/GUI/GUI_RunSearch.h
+		src/GUI/GUI_SaveLoadMap.h
+		src/GUI/GUI_SearchSpeed.h
+		src/GUI/GUI_SearchStats.h
+		src/GUI/GUI_SelectSearchAlgorithm.h
+		src/GUI/GUI_SoundAdjustment.h
+		src/GUI/GUI_TutorialWindow.h
+		src/SearchAlgorithms/AlgorithmBase.h
+		src/SearchAlgorithms/AStar.h
+		src/SearchAlgorithms/BFS.h
+		src/SearchAlgorithms/DFS.h
+		src/SearchAlgorithms/Dijkstra.h
+		src/Utils/Audio.h
+		src/Utils/Time.h
+		src/Utils/Typedefs.h
+		src/Utils/Colour.h
 	)
