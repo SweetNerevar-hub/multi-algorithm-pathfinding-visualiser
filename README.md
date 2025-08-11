@@ -2,11 +2,9 @@
 
 MAPV is a simple yet comprehensive visualiser for search algorithms used in games and other programs that use pathfinding for navigating agents around an environment.
 
-<img src="readme_images/mapv1.png" alt="alt" width="400"/>
-<img src="readme_images/mapv_g1.gif" alt="alt" width="400"/>
-<img src="readme_images/mapv4.png" alt="alt" width="400"/>
-<br>
+<img src="readme_images/mapv1.png" alt="alt" width="400"/> <img src="readme_images/mapv_g1.gif" alt="alt" width="400"/>
 <img src="readme_images/mapv_g2.gif" alt="alt" width="400"/>
+<img src="readme_images/mapv4.png" alt="alt" width="400"/>
 <img src="readme_images/mapv3.png" alt="alt" width="400"/>
 <img src="readme_images/mapv_g3.gif" alt="alt" width="400"/>
 
