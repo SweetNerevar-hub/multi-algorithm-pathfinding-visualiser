@@ -3,4 +3,5 @@ externals/lib/
 *.vcxproj
 *.filters
 *.user
+*.bat
 icon.o
